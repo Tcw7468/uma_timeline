@@ -45752,7 +45752,7 @@
 <line x1="0" y1="162.65625" x2="35.0" y2="162.65625" stroke="#d15deb" stroke-width="1.4"/>
 <text x="11.7" y="165.6" font-size="8.50" font-weight="bold" fill="url(#legend-place-gold-fill)" stroke="url(#legend-place-gold-stroke)" stroke-width="1.105" paint-order="stroke fill" text-anchor="middle">1</text>
 <text x="23.3" y="165.6" font-size="8.50" font-weight="bold" fill="url(#legend-place-record-fill)" stroke="url(#legend-place-record-stroke)" stroke-width="1.105" paint-order="stroke fill" text-anchor="middle">R</text>
-<text x="43.0" y="165.6" font-size="8.0" fill="#d15deb" stroke="none">Important races designated &#x27;重賞&#x27;, at local/regional level or before grading was introduced</text>
+<text x="43.0" y="165.6" font-size="8.0" fill="#d15deb" stroke="none">Races designated &#x27;重賞&#x27;, i.e. important races at local/regional level or before grading was introduced</text>
 <line x1="0" y1="179.78375" x2="35.0" y2="179.78375" stroke="#ffdf5c" stroke-width="1.2"/>
 <text x="11.7" y="182.6" font-size="8.12" font-weight="bold" fill="url(#legend-place-gold-fill)" stroke="url(#legend-place-gold-stroke)" stroke-width="1.055" paint-order="stroke fill" text-anchor="middle">1</text>
 <text x="23.3" y="182.6" font-size="8.12" font-weight="bold" fill="url(#legend-place-record-fill)" stroke="url(#legend-place-record-stroke)" stroke-width="1.055" paint-order="stroke fill" text-anchor="middle">R</text>
@@ -45841,7 +45841,7 @@
 <text x="210.0" y="41.9" font-size="8.5" font-weight="bold" fill="url(#legend-place-withdraw-fill)" stroke="url(#legend-place-withdraw-stroke)" stroke-width="1.105" paint-order="stroke fill">取</text>
 <text x="228.7" y="41.9" font-size="7.5" fill="var(--legend-text)">Withdrawal (includes race cancellation)</text>
 <text x="0.0" y="55.1" font-size="8.5" font-weight="bold" fill="url(#legend-place-withdraw-fill)" stroke="url(#legend-place-withdraw-stroke)" stroke-width="1.105" paint-order="stroke fill">除</text>
-<text x="18.7" y="55.1" font-size="7.5" fill="var(--legend-text)">Late withdrawal</text>
+<text x="18.7" y="55.1" font-size="7.5" fill="var(--legend-text)">Late withdrawal/scratched</text>
 <text x="210.0" y="55.1" font-size="8.5" font-weight="bold" fill="url(#legend-place-penalty-fill)" stroke="url(#legend-place-penalty-stroke)" stroke-width="1.105" paint-order="stroke fill">n降</text>
 <text x="228.7" y="55.1" font-size="7.5" fill="var(--legend-text)">Demotion to nth place</text>
 <text x="8.0" y="79.9" font-size="9.46" font-weight="bold" fill="url(#legend-place-gold-fill)" stroke="url(#legend-place-gold-stroke)" stroke-width="1.230" paint-order="stroke fill" text-anchor="middle">♔</text>
@@ -45960,15 +45960,15 @@
 <text x="0.0" y="22.4" font-size="7.5" fill="var(--legend-text)" font-weight="bold">‡</text>
 <text x="15.0" y="22.4" font-size="6.0" fill="var(--legend-text)">Name in game is different from name in real life; placeholder name exists</text>
 <text x="0.0" y="34.0" font-size="7.5" fill="var(--legend-text)" font-weight="bold">‖</text>
-<text x="15.0" y="34.0" font-size="6.0" fill="var(--legend-text)">Umaname maps to multiple horse names</text>
+<text x="15.0" y="34.0" font-size="6.0" fill="var(--legend-text)">Umamusume maps to or is a composite of multiple real-life horses</text>
 <text x="0.0" y="45.7" font-size="7.5" fill="var(--legend-text)" font-weight="bold">※</text>
 <text x="15.0" y="45.7" font-size="6.0" fill="var(--legend-text)">Is NPC in-game (in supporting characters roster)</text>
 <text x="0.0" y="57.3" font-size="7.5" fill="var(--legend-text)" font-weight="bold">⌑</text>
 <text x="15.0" y="57.3" font-size="6.0" fill="var(--legend-text)">Is a mob uma in-game</text>
 <text x="0.0" y="68.9" font-size="7.5" fill="var(--legend-text)" font-weight="bold">★</text>
-<text x="15.0" y="68.9" font-size="6.0" fill="var(--legend-text)">Anime-exclusive character</text>
+<text x="15.0" y="68.9" font-size="6.0" fill="var(--legend-text)">Anime-exclusive character (including movies)</text>
 <text x="0.0" y="80.5" font-size="7.5" fill="var(--legend-text)" font-weight="bold">⌑★</text>
-<text x="15.0" y="80.5" font-size="6.0" fill="var(--legend-text)">Appears both as a mob and in the anime</text>
+<text x="15.0" y="80.5" font-size="6.0" fill="var(--legend-text)">Appears both as a game mob and in the anime</text>
 <text x="0.0" y="92.2" font-size="7.5" fill="var(--legend-text)" font-weight="bold">⟡</text>
 <text x="15.0" y="92.2" font-size="6.0" fill="var(--legend-text)">In-game mob whose name is also very briefly mentioned in the anime</text>
 <text x="0.0" y="103.8" font-size="7.5" fill="var(--legend-text)" font-weight="bold">‽</text>
@@ -45976,23 +45976,25 @@
 <text x="0.0" y="115.4" font-size="7.5" fill="var(--legend-text)" font-weight="bold">☆</text>
 <text x="15.0" y="115.4" font-size="6.0" fill="var(--legend-text)">Cinderella Gray-exclusive character</text>
 <text x="0.0" y="127.0" font-size="7.5" fill="var(--legend-text)" font-weight="bold">¶</text>
-<text x="15.0" y="127.0" font-size="6.0" fill="var(--legend-text)">Reverse-inspired: real-life horse was named after an in-game character</text>
+<text x="15.0" y="127.0" font-size="6.0" fill="var(--legend-text)">Reverse-inspired: real-life horse was named after an umamusume character</text>
 <text x="0.0" y="138.7" font-size="7.5" fill="var(--legend-text)" font-weight="bold">⸿</text>
-<text x="15.0" y="138.7" font-size="6.0" fill="var(--legend-text)">Reverse-inspired horse named with a placeholder of a different horse</text>
-<text x="0.0" y="150.3" font-size="7.5" fill="var(--legend-text)" font-weight="bold">?</text>
-<text x="15.0" y="150.3" font-size="6.0" fill="var(--legend-text)">Highly speculative or dubious designation</text>
-<text x="0.0" y="161.9" font-size="7.5" fill="var(--legend-text)" font-weight="bold">♯</text>
-<text x="15.0" y="161.9" font-size="6.0" fill="var(--legend-text)">Star Blossom manga-exclusive character</text>
-<text x="0.0" y="173.6" font-size="7.5" fill="var(--legend-text)" font-weight="bold">♭</text>
-<text x="15.0" y="173.6" font-size="6.0" fill="var(--legend-text)">Cindarella Gray manga-exclusive character</text>
-<text x="0.0" y="185.2" font-size="7.5" fill="var(--legend-text)" font-weight="bold">§</text>
-<text x="15.0" y="185.2" font-size="6.0" fill="var(--legend-text)">shhh...</text>
-<text x="0.0" y="196.8" font-size="7.5" fill="var(--legend-text)" font-weight="bold">⁂</text>
-<text x="15.0" y="196.8" font-size="6.0" fill="var(--legend-text)">Real-life actor of a fictional horse in collaborating media</text>
-<text x="0.0" y="210.4" font-size="7.5" fill="var(--legend-text)" font-weight="bold">✯</text>
-<text x="15.0" y="210.4" font-size="6.0" fill="var(--legend-text)">Name is internationally reserved.</text>
-<text x="0.0" y="224.1" font-size="6.0" fill="var(--legend-text-dim)">Flags above name indicate country foaled. If there is no flag, the horse was foaled</text>
-<text x="0.0" y="235.7" font-size="6.0" fill="var(--legend-text-dim)">in Japan.</text></g>
+<text x="15.0" y="138.7" font-size="6.0" fill="var(--legend-text)">Reverse-inspired horse named after an umamusume character based on a different</text>
+<text x="15.0" y="150.3" font-size="6.0" fill="var(--legend-text)">real-life horse</text>
+<text x="0.0" y="161.9" font-size="7.5" fill="var(--legend-text)" font-weight="bold">?</text>
+<text x="15.0" y="161.9" font-size="6.0" fill="var(--legend-text)">Highly speculative or dubious connection to real-life horse</text>
+<text x="0.0" y="173.6" font-size="7.5" fill="var(--legend-text)" font-weight="bold">♯</text>
+<text x="15.0" y="173.6" font-size="6.0" fill="var(--legend-text)">Star Blossom manga-exclusive character</text>
+<text x="0.0" y="185.2" font-size="7.5" fill="var(--legend-text)" font-weight="bold">♭</text>
+<text x="15.0" y="185.2" font-size="6.0" fill="var(--legend-text)">Cinderella Gray manga-exclusive character</text>
+<text x="0.0" y="196.8" font-size="7.5" fill="var(--legend-text)" font-weight="bold">§</text>
+<text x="15.0" y="196.8" font-size="6.0" fill="var(--legend-text)">shhh...</text>
+<text x="0.0" y="208.4" font-size="7.5" fill="var(--legend-text)" font-weight="bold">⁂</text>
+<text x="15.0" y="208.4" font-size="6.0" fill="var(--legend-text)">Real-life actor of a fictional horse in collaborating media</text>
+<text x="0.0" y="222.1" font-size="7.5" fill="var(--legend-text)" font-weight="bold">✯</text>
+<text x="15.0" y="222.1" font-size="6.0" fill="var(--legend-text)">Name is internationally reserved by the International Federation of Horseracing</text>
+<text x="15.0" y="233.7" font-size="6.0" fill="var(--legend-text)">Authorities (IFHA).</text>
+<text x="0.0" y="247.3" font-size="6.0" fill="var(--legend-text-dim)">Flags above name indicate country foaled. If there is no flag, the horse was foaled</text>
+<text x="0.0" y="258.9" font-size="6.0" fill="var(--legend-text-dim)">in Japan.</text></g>
 <g transform="translate(734.0,10.0)"><text x="0" y="10.0" font-size="11.0" font-weight="bold" fill="var(--legend-hdr-text)">Award Bars</text>
 <text x="24.0" y="22.8" font-size="7.5" fill="var(--legend-text)" font-weight="bold" text-anchor="middle">JRA Awards</text>
 <text x="84.0" y="22.8" font-size="7.5" fill="var(--legend-text)" font-weight="bold" text-anchor="middle">NAR Grand Prix</text>
